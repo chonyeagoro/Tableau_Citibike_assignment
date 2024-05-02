@@ -8,4 +8,22 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers.
 
-##Files Used 
+
+Citi Bike Trip Histories
+We publish downloadable files of Citi Bike trip data. The data includes:
+
+Ride ID
+Rideable type
+Started at
+Ended at
+Start station name
+Start station ID
+End station name
+End station ID
+Start latitude
+Start longitude
+End latitude
+End Longitude
+Member or casual ride
+
+Files Used 
