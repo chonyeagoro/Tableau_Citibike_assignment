@@ -10,20 +10,33 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 Citi Bike Trip Histories
+
 We publish downloadable files of Citi Bike trip data. The data includes:
 
 Ride ID
+
 Rideable type
+
 Started at
+
 Ended at
+
 Start station name
+
 Start station ID
+
 End station name
+
 End station ID
+
 Start latitude
+
 Start longitude
+
 End latitude
+
 End Longitude
+
 Member or casual ride
 
 Files Used 
