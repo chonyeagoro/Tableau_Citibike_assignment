@@ -39,4 +39,22 @@ End Longitude
 
 Member or casual ride
 
-Files Used 
+
+Files Used :
+
+202301-citibike-tripdata_1.csv
+202302-citibike-tripdata_1.csv
+202303-citibike-tripdata_1.csv
+202304-citibike-tripdata_1.csv
+202305-citibike-tripdata_1.csv
+202306-citibike-tripdata_1.csv
+202307-citibike-tripdata_1.csv
+202308-citibike-tripdata_1.csv
+202309-citibike-tripdata_1.csv
+202310-citibike-tripdata_1.csv
+202311-citibike-tripdata_1.csv
+202312-citibike-tripdata_1.csv
+
+Merged Files:
+
+citibike_2023_data.csv
